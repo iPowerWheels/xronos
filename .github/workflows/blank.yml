@@ -1,0 +1,15 @@
+name: DESCRIPTION
+
+on: [push]
+
+jobs: Adjust to your requirements
+  build: Xronos Class
+
+    runs-on: ubuntu-bionic
+
+    steps:
+    - uses: creates a directory
+    - name: compile
+      run: javac - or whatever your want to use to compile
+    - name: Develop this project started with an object to help you
+      
